@@ -1,0 +1,6 @@
+@IOMSAPI_Auth_HostAddress = http://localhost:5229
+
+GET {{IOMSAPI_Auth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
